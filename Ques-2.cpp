@@ -3,6 +3,7 @@ QUESTION-2:
             Write a program using templates to sort a list of elements. Give user the option to perform sorting using Insertion sort, Bubble sort or Selection sort.
 SOLUTION:
 */
+/* cout<<arr[i]<<" ";*/
 #include<iostream>
 using namespace std;
 template <class X_Type> class SortingOfArray
